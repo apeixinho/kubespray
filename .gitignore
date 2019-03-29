@@ -13,6 +13,7 @@ contrib/terraform/aws/credentials.tfvars
 **/*.sw[pon]
 *~
 vagrant/
+settings.json
 
 # Ansible inventory
 inventory/*
