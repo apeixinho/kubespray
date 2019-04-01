@@ -16,7 +16,7 @@ vagrant/
 settings.json
 
 # Ansible inventory
-inventory/*
+# inventory/*
 !inventory/local
 !inventory/sample
 inventory/*/artifacts/
